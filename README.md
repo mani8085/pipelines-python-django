@@ -1,5 +1,5 @@
 # Sample Python app for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/manishankar8085/Demo-Client/_apis/build/status/mani8085.pipelines-python-django?branchName=master)](https://dev.azure.com/manishankar8085/Demo-Client/_build/latest?definitionId=2&branchName=master)
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
 | Example | Build status |
